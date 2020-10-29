@@ -1,0 +1,7 @@
+--No olvidar instalar el entorno virtual
+
+--Para instalar
+pip install -U Sphinx
+
+--Para generar la build
+sphinx-build -b html source build
