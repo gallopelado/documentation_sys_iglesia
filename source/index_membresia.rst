@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Necesita ayuda con los formularios del módulo de Membresía ?
-=====================================================
+============================================================
 
 .. toctree::
    :maxdepth: 2
@@ -12,6 +12,7 @@ Necesita ayuda con los formularios del módulo de Membresía ?
 
    membresia/1_formulario_admision
    membresia/2_formulario_adicional
+   membresia/3_documentos_ingreso
 
 
 Indices and tables
