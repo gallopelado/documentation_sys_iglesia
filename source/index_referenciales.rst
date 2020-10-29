@@ -10,7 +10,8 @@ Necesita ayuda con los formularios referenciales ?
    :maxdepth: 2
    :caption: Contents:
 
-   ciudad
+   referenciales/ciudad
+   referenciales/persona
 
 
 Indices and tables

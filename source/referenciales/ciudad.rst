@@ -10,10 +10,10 @@ A continuación se presentan unas vistas descriptivas acerca de cada elemento:
 
 Fig 01
 ------
-..  image:: _static/referenciales/ciudad/fig_01.png
+..  image:: ../_static/referenciales/ciudad/fig_01.png
     :align: center
 
 Fig 02
 ------
-..  image:: _static/referenciales/ciudad/fig_02.png
+..  image:: ../_static/referenciales/ciudad/fig_02.png
     :align: center
