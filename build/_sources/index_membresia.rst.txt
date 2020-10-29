@@ -11,6 +11,7 @@ Necesita ayuda con los formularios del módulo de Membresía ?
    :caption: Contents:
 
    membresia/1_formulario_admision
+   membresia/2_formulario_adicional
 
 
 Indices and tables

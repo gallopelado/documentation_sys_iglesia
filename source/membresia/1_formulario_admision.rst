@@ -40,5 +40,5 @@ Video
 .. raw:: html
 
    <video width="600" controls >
-        <source src="../_static/v_admision1.mp4" type="video/mp4">
+        <source src="../_static/membresia/1_formulario_admision/v_admision1.mp4" type="video/mp4">
    </video>
