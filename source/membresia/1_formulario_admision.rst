@@ -1,5 +1,5 @@
 Registrar formulario de admisión
-*****************
+********************************
 
 Descripción
 ===========
@@ -31,7 +31,14 @@ Fig 03
 Fig 04
 ------
 
-Vista en modo de lectura
-
 ..  image:: ../_static/membresia/1_formulario_admision/fig_04.png
     :align: center
+
+Video
+-----
+
+.. raw:: html
+
+   <video width="600" controls >
+        <source src="../_static/v_admision1.mp4" type="video/mp4">
+   </video>
