@@ -8,14 +8,15 @@ Necesita ayuda con los formularios del módulo de Membresía ?
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contenidos:
 
    membresia/1_formulario_admision
    membresia/2_formulario_adicional
    membresia/3_documentos_ingreso
+   membresia/4_requisitos_miembro
 
 
-Indices and tables
+Indices and tablas
 ==================
 
 * :ref:`genindex`
