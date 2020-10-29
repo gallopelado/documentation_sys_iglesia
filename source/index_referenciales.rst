@@ -12,6 +12,7 @@ Necesita ayuda con los formularios referenciales ?
 
    referenciales/ciudad
    referenciales/persona
+   referenciales/contrato
 
 
 Indices and tables
