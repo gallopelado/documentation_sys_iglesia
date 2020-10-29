@@ -11,7 +11,7 @@ Bienvenido al centro de  documentación Sys Iglesia!
    :caption: Contents:
 
    index_referenciales
-
+   index_membresia
 
 Indices and tables
 ==================

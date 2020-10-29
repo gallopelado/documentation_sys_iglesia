@@ -3,15 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Bienvenido al centro de  documentación Sys Iglesia!
+Necesita ayuda con los formularios del módulo de Membresía ?
 =====================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   index_referenciales
-   index_membresia
+   membresia/1_formulario_admision
+
 
 Indices and tables
 ==================
