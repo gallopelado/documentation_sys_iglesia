@@ -14,6 +14,7 @@ Necesita ayuda con los formularios del módulo de Membresía ?
    membresia/2_formulario_adicional
    membresia/3_documentos_ingreso
    membresia/4_requisitos_miembro
+   membresia/5_miembro_oficial
 
 
 Indices and tablas

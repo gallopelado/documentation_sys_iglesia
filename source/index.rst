@@ -8,12 +8,12 @@ Bienvenido al centro de  documentación Sys Iglesia!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contenidos:
 
    index_referenciales
    index_membresia
 
-Indices and tables
+Indices and tablas
 ==================
 
 * :ref:`genindex`
