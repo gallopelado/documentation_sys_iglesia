@@ -13,6 +13,7 @@ Necesita ayuda con los formularios del módulo de Cursos ?
    cursos/1_malla
    cursos/2_planificacion_cursos
    cursos/3_inscripcion_alumnos
+   cursos/4_asistencia_alumnos
 
 
 Indices y tablas
