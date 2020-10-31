@@ -17,6 +17,7 @@ Necesita ayuda con los formularios del módulo de Cursos ?
    cursos/5_desercion_alumnos
    cursos/6_justificativo_ausencia
    cursos/7_planificacion_examen
+   cursos/8_calificacion_examen
 
 
 Indices y tablas
