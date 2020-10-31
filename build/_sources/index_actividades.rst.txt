@@ -14,6 +14,7 @@ Necesita ayuda con los formularios del módulo de Actividades ?
    actividades/2_asistencia_miembros
    actividades/3_reserva_evento
    actividades/4_contrato_reserva
+   actividades/5_visita_hospital
 
 
 Indices y tablas
