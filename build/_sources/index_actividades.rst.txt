@@ -11,6 +11,7 @@ Necesita ayuda con los formularios del módulo de Actividades ?
    :caption: Contenidos:
 
    actividades/1_actividades_anuales
+   actividades/2_asistencia_miembros
 
 
 Indices y tablas
