@@ -1,5 +1,6 @@
 # Proyecto de documentación para el proyecto Sys Iglesia
 * [Sys Iglesia](https://github.com/gallopelado/sys_iglesia) - Proyecto de tesis.
+<img src="./source/_static/otros/vista_general.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px; with:250px; height:250px" />
 
 ## Construído con 
 * [Python](https://www.python.org/) - El lenguaje del backend.
