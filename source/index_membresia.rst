@@ -20,6 +20,7 @@ Necesita ayuda con los formularios del módulo de Membresía ?
    membresia/8_candidatos_postulacion
    membresia/9_lista_calificados
    membresia/10_comites
+   membresia/11_obreros_comite
 
 Indices and tablas
 ==================
