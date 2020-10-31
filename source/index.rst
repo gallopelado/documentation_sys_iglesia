@@ -13,7 +13,7 @@ Bienvenido al centro de  documentación Sys Iglesia!
    index_referenciales
    index_membresia
 
-Indices and tablas
+Indices y tablas
 ==================
 
 * :ref:`genindex`

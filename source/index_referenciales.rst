@@ -15,7 +15,7 @@ Necesita ayuda con los formularios referenciales ?
    referenciales/contrato
 
 
-Indices and tables
+Indices y tablas
 ==================
 
 * :ref:`genindex`

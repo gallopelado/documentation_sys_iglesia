@@ -22,7 +22,7 @@ Necesita ayuda con los formularios del módulo de Membresía ?
    membresia/10_comites
    membresia/11_obreros_comite
 
-Indices and tablas
+Indices y tablas
 ==================
 
 * :ref:`genindex`
