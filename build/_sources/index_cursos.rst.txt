@@ -15,6 +15,7 @@ Necesita ayuda con los formularios del módulo de Cursos ?
    cursos/3_inscripcion_alumnos
    cursos/4_asistencia_alumnos
    cursos/5_desercion_alumnos
+   cursos/6_justificativo_ausencia
 
 
 Indices y tablas
