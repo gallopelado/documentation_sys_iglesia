@@ -11,6 +11,7 @@ Necesita ayuda con los formularios del módulo de Cursos ?
    :caption: Contenidos:
 
    cursos/1_malla
+   cursos/2_planificacion_cursos
 
 
 Indices y tablas
