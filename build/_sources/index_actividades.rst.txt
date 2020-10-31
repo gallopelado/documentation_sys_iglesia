@@ -12,6 +12,7 @@ Necesita ayuda con los formularios del módulo de Actividades ?
 
    actividades/1_actividades_anuales
    actividades/2_asistencia_miembros
+   actividades/3_reserva_evento
 
 
 Indices y tablas
