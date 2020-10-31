@@ -12,6 +12,7 @@ Bienvenido al centro de  documentación Sys Iglesia!
 
    index_referenciales
    index_membresia
+   index_actividades
 
 Indices y tablas
 ==================
