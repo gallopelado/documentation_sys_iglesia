@@ -5,3 +5,18 @@ pip install -U Sphinx
 
 --Para generar la build
 sphinx-build -b html source build
+
+
+--Para generar pdf
+--Instalar el paquete rst2pdf
+pip install rst2pdf
+
+--Configurar el fichero conf.py
+extensions = [
+    'rst2pdf.pdfbuilder'
+]
+
+pdf_documents = [('index', u'nombre', u'Manual de Usuario', u'Juan Jose Gonzalez Ramirez'),]
+
+--Comando para generar el pdf
+sphinx-build -bpdf source build

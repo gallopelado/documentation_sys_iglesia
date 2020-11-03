@@ -25,7 +25,7 @@ Editar
    </video>
 
 Agregar
-------
+-------
 .. raw:: html
 
    <video width="600" controls >
@@ -33,7 +33,7 @@ Agregar
    </video>
 
 Dar de baja
-------
+------------
 .. raw:: html
 
    <video width="600" controls >

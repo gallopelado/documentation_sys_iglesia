@@ -31,7 +31,10 @@ release = '0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'rst2pdf.pdfbuilder'
 ]
+
+pdf_documents = [('index', u'nombre', u'Manual de Usuario', u'Juan Jose Gonzalez Ramirez'),]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
